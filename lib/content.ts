@@ -9,6 +9,7 @@ export const NAVIGATION = [
   // { name: "About", href: "/about" },
   { name: "Technology", href: "/technology" },
   { name: "Use Cases", href: "/use-cases" },
+  { name: "Tests", href: "/tests" },
   // { name: "Impact", href: "/impact" },
   // { name: "Team", href: "/team" },
   // { name: "Contact", href: "/contact" },
